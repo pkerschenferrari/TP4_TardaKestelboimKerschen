@@ -1,10 +1,11 @@
-# Trabajo Práctico N°4 — BBDD, SQL y Manejo de Versiones
+# Trabajo Práctico N°4 — Bases de datos + Manejo de Versiones
 
 **Materia:** 16.22 Informática Médica — ITBA
 
 ## _Autores:_
-* Apellido1 Nombre1
-* Apellido2 Nombre2
+* Tarda
+* Kestelboim
+* Kerschen
 
 ---
 
