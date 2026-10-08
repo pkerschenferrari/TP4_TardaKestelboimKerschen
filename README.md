@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33216657/README.md)
 <p align="center">
   <img src="imágenes/logo_itba.png" alt="ITBA - 16.22 Informática Médica" width="400"/>
 </p>
